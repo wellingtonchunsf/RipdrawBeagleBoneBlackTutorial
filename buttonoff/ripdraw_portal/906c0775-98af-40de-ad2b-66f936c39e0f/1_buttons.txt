@@ -1,0 +1,36 @@
+Version 1
+Resolution 1024, 600
+DeviceSize 152, 91
+
+SetLayerEnable 1, 1
+SetLayerBackColor 1, ffffff00
+ImageWrite 1, yellow-on, 0, 0
+ImageWrite 1, violet-on, 2, 153
+ImageWrite 1, red-on, 4, 305
+ImageWrite 1, pink-on, 1, 452
+ImageWrite 1, peacock-blue-on, 149, 0
+ImageWrite 1, orange-on, 149, 142
+ImageWrite 1, green-on, 148, 309
+ImageWrite 1, gold-button, 153, 451
+ImageWrite 1, blue-on, 0, 0
+ImageWrite 1, brown-on, 0, 0
+ImageWrite 1, brown-on, 0, 0
+
+SetLayerEnable 2, 0
+SetLayerBackColor 2, ffffff00
+
+SetLayerEnable 3, 0
+SetLayerBackColor 3, ffffff00
+
+SetLayerEnable 4, 0
+SetLayerBackColor 4, ffffff00
+
+SetLayerEnable 5, 0
+SetLayerBackColor 5, ffffff00
+
+SetLayerEnable 6, 0
+SetLayerBackColor 6, ffffff00
+
+SetLayerEnable 7, 0
+SetLayerBackColor 7, ffffff00
+
